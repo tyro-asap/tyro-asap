@@ -1,6 +1,6 @@
 ## Tech stack
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?cache=0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap)
 
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
