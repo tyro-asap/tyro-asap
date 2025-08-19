@@ -1,4 +1,11 @@
 ## Tech stack
+### Analytics
+![sonarqube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
+### Artificial Intelligence
+![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### Cloud
+![amazonwebservices](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![githubactions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light)
 
